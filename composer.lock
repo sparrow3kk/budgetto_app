@@ -2008,16 +2008,16 @@
         },
         {
             "name": "symfony/asset",
-            "version": "v7.1.0",
+            "version": "v7.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/asset.git",
-                "reference": "dd4dc37304741751fec9df487ff2f8666088ffe4"
+                "reference": "8970de4a0cedd34e097c0f5c502a614780b9ca43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/asset/zipball/dd4dc37304741751fec9df487ff2f8666088ffe4",
-                "reference": "dd4dc37304741751fec9df487ff2f8666088ffe4",
+                "url": "https://api.github.com/repos/symfony/asset/zipball/8970de4a0cedd34e097c0f5c502a614780b9ca43",
+                "reference": "8970de4a0cedd34e097c0f5c502a614780b9ca43",
                 "shasum": ""
             },
             "require": {
@@ -2057,7 +2057,7 @@
             "description": "Manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/asset/tree/v7.1.0"
+                "source": "https://github.com/symfony/asset/tree/v7.1.1"
             },
             "funding": [
                 {
@@ -2073,20 +2073,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-18T09:32:20+00:00"
+            "time": "2024-05-31T14:57:53+00:00"
         },
         {
             "name": "symfony/asset-mapper",
-            "version": "v7.1.0",
+            "version": "v7.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/asset-mapper.git",
-                "reference": "8a642454b5e5bdf8a82f3d43a2659c7da50a60f9"
+                "reference": "db68a25e6c82b639a25a9032aa98bf21f8c9a1fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/asset-mapper/zipball/8a642454b5e5bdf8a82f3d43a2659c7da50a60f9",
-                "reference": "8a642454b5e5bdf8a82f3d43a2659c7da50a60f9",
+                "url": "https://api.github.com/repos/symfony/asset-mapper/zipball/db68a25e6c82b639a25a9032aa98bf21f8c9a1fe",
+                "reference": "db68a25e6c82b639a25a9032aa98bf21f8c9a1fe",
                 "shasum": ""
             },
             "require": {
@@ -2136,7 +2136,7 @@
             "description": "Maps directories of assets & makes them available in a public directory with versioned filenames.",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/asset-mapper/tree/v7.1.0"
+                "source": "https://github.com/symfony/asset-mapper/tree/v7.1.1"
             },
             "funding": [
                 {
@@ -2152,7 +2152,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-28T18:29:00+00:00"
+            "time": "2024-05-31T14:57:53+00:00"
         },
         {
             "name": "symfony/cache",
