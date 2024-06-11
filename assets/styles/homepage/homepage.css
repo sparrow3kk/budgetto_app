@@ -7,12 +7,6 @@
   font-family: "Poppins", sans-serif;
 }
 
-.home-content {
-  /* padding: 50px;
-  background-color: #f4f4f4;
-  height: 200px; */
-}
-
 .home-content .header--home-content {
   display: flex;
   justify-content: center;
@@ -25,6 +19,7 @@
   font-size: 18px;
   color: #000;
   margin: 30px;
+  font-weight: 500;
 }
 
 .home-content .header--home-content p span {
@@ -203,6 +198,7 @@
 .header--six-section .header--six-section.content ul li a {
   text-decoration: none;
   color: #000;
+  font-weight: 500;
 }
 
 /* footer */
