@@ -31,6 +31,14 @@
   padding: 50px;
 }
 
+.section-content img {
+  transition: filter 1s;
+}
+
+.section-content .lazy-img {
+  filter: blur(20px);
+}
+
 .header--first-section .content {
   display: flex;
   justify-content: center;
